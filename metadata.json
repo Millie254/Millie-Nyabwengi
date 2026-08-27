@@ -1,0 +1,6 @@
+{
+  "name": "FHIR Connected Care Hub & Clinical Suite",
+  "description": "Enterprise clinical platform featuring FHIR R4 data foundation, role-specific clinician & registrar views, GenAI intake summarisation, predictive task routing, secure messaging, and ERP billing connector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
